@@ -1,0 +1,1 @@
+{"filename": "builds/5a1f6fc3b34717e7014fd13d167a10393ce7a7c49e4eb398af28b8d7ff4d8919.zip", "runtime": "python3.9", "artifacts_dir": "builds", "build_plan": [["pip", "python3.9", "./../lambda/failover-queue/requirements.txt", null], ["zip", "./../lambda/failover-queue", null]]}

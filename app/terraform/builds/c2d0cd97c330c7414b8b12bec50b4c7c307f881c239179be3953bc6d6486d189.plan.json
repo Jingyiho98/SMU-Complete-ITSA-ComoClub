@@ -1,0 +1,1 @@
+{"filename": "builds/c2d0cd97c330c7414b8b12bec50b4c7c307f881c239179be3953bc6d6486d189.zip", "runtime": "python3.9", "artifacts_dir": "builds", "build_plan": [["pip", "python3.9", "./../lambda/7rooms-token/requirements.txt", null], ["zip", "./../lambda/7rooms-token", null]]}
